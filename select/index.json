@@ -1,0 +1,272 @@
+{
+  "version": 1,
+  "base_track": "mellow mellow",
+  "base_artist": "UNiFY",
+  "createdAt": "2026-02-16T08:13:37.202267Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ain't That (Mellow, Mellow)",
+      "artist": "Willie Hutch",
+      "has_synced": true,
+      "path": "select/01_Ain't_That_(Mellow,_Mellow)_Willie_Hutch.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mellow Mellow Right On",
+      "artist": "Lowrell",
+      "has_synced": false,
+      "path": "select/02_Mellow_Mellow_Right_On_Lowrell.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mellow Mellow",
+      "artist": "Mark Forster",
+      "has_synced": true,
+      "path": "select/03_Mellow_Mellow_Mark_Forster.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mellow Mellow",
+      "artist": "Berry Good",
+      "has_synced": true,
+      "path": "select/04_Mellow_Mellow_Berry_Good.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mellow Mellow (Inst.)",
+      "artist": "Berry Good",
+      "has_synced": true,
+      "path": "select/05_Mellow_Mellow_(Inst.)_Berry_Good.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mellow Mellow",
+      "artist": "berrygood",
+      "has_synced": true,
+      "path": "select/06_Mellow_Mellow_berrygood.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mellow mellow Lily",
+      "artist": "ジミー",
+      "has_synced": true,
+      "path": "select/07_Mellow_mellow_Lily_ジミー.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "mellow mellow",
+      "artist": "Femme Fatale",
+      "has_synced": true,
+      "path": "select/08_mellow_mellow_Femme_Fatale.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mellow Mellow - JTL",
+      "artist": "Mark Forster",
+      "has_synced": true,
+      "path": "select/09_Mellow_Mellow_-_JTL_Mark_Forster.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ain't That Mellow Mellow",
+      "artist": "Willie Hutch",
+      "has_synced": true,
+      "path": "select/10_Ain't_That_Mellow_Mellow_Willie_Hutch.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ain't That Mellow, Mellow",
+      "artist": "Willie Hutch",
+      "has_synced": true,
+      "path": "select/11_Ain't_That_Mellow,_Mellow_Willie_Hutch.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mellow, Mellow Right On",
+      "artist": "Lowrell",
+      "has_synced": false,
+      "path": "select/12_Mellow,_Mellow_Right_On_Lowrell.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mellow Mellow",
+      "artist": "Crimson Crat Clan",
+      "has_synced": false,
+      "path": "select/13_Mellow_Mellow_Crimson_Crat_Clan.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "mellow mellow",
+      "artist": "Alstroemeria",
+      "has_synced": false,
+      "path": "select/14_mellow_mellow_Alstroemeria.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "mellow",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/15_mellow_Eve.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Laws Patrolling (Feat. CJ, Lil Bran & Mellow)",
+      "artist": "Mike Jones",
+      "has_synced": true,
+      "path": "select/16_Laws_Patrolling_(Feat._CJ,_Lil_Bran_&_Mellow)_Mike_Jones.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Mellow",
+      "artist": "Netsky feat. Terri Pace",
+      "has_synced": true,
+      "path": "select/17_Mellow_Netsky_feat._Terri_Pace.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Mellow (feat. Terri Pace)",
+      "artist": "Netsky",
+      "has_synced": true,
+      "path": "select/18_Mellow_(feat._Terri_Pace)_Netsky.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Mellow My Mind",
+      "artist": "Neil Young",
+      "has_synced": false,
+      "path": "select/19_Mellow_My_Mind_Neil_Young.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Mellow",
+      "artist": "Georgia feat. Shygirl",
+      "has_synced": false,
+      "path": "select/20_Mellow_Georgia_feat._Shygirl.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Mellow",
+      "artist": "Georgia",
+      "has_synced": false,
+      "path": "select/21_Mellow_Georgia.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Mellow Song",
+      "artist": "Blur",
+      "has_synced": true,
+      "path": "select/22_Mellow_Song_Blur.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "I'll Be Mellow When I'm Dead",
+      "artist": "\"Weird Al\" Yankovic",
+      "has_synced": true,
+      "path": "select/23_I'll_Be_Mellow_When_I'm_Dead_Weird_Al__Yankovic.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "I'll Be Mellow When I'm Dead",
+      "artist": "\"Weird Al\" Yankovic \"Musical Mike\" Kieffer",
+      "has_synced": true,
+      "path": "select/24_I'll_Be_Mellow_When_I'm_Dead_Weird_Al__Yankovic__Musical_Mike__Kieffer.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Mellow My Mind",
+      "artist": "Simply Red feat. AGM, Andy Wright & Gota Yashiki and Mick Hucknall",
+      "has_synced": true,
+      "path": "select/25_Mellow_My_Mind_Simply_Red_feat._AGM,_Andy_Wright_&_Gota_Yashiki_and_Mick_Hucknall.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Mellow My Mind",
+      "artist": "Simply Red",
+      "has_synced": true,
+      "path": "select/26_Mellow_My_Mind_Simply_Red.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Mellow",
+      "artist": "Tricky",
+      "has_synced": true,
+      "path": "select/27_Mellow_Tricky.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "mellow yellow",
+      "artist": "Toki Asako",
+      "has_synced": true,
+      "path": "select/28_mellow_yellow_Toki_Asako.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "mellow yellow",
+      "artist": "土岐麻子",
+      "has_synced": true,
+      "path": "select/29_mellow_yellow_土岐麻子.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Mellow Jam",
+      "artist": "Blur",
+      "has_synced": false,
+      "path": "select/30_Mellow_Jam_Blur.txt"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Angel Carver Blues/Mellow Jazz Docent",
+      "artist": "Pavement",
+      "has_synced": false,
+      "path": "select/31_Angel_Carver_Blues_Mellow_Jazz_Docent_Pavement.txt"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Fine and Mellow (Live at Town Hall)",
+      "artist": "Nina Simone",
+      "has_synced": false,
+      "path": "select/32_Fine_and_Mellow_(Live_at_Town_Hall)_Nina_Simone.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "mellow mellow",
+      "artist": "UNiFY",
+      "has_synced": false,
+      "path": "select/pl_01_mellow_mellow_UNiFY.txt"
+    }
+  ]
+}
